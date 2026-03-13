@@ -1,0 +1,7 @@
+.env
+*.mp4
+*.mov
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/videos/
